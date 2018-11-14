@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">StringsXML</string>
+    <string name="list_of_strings">Contactanation of huge list of strings</string>
+    <string name="one_string">This is the one string</string>
+    <string name="two_string">This is the two string</string>
+    <string name="three_string">This is the three string</string>
+    <string name="four_string">This is the one string</string>
+    <string name="five_string">This is the two string</string>
+    <string name="six_string">This is the three string</string>
+    <string name="seven_string">This is the one string</string>
+    <string name="eight_string">This is the two string</string>
+    <string name="nine_string">This is the three string</string>
+    <string name="ten_string">This is the one string</string>
+    <string name="eleven_string">This is the two string</string>
+    <string name="twelve_string">This is the three string</string>
+    <string name="thirteen_string">This is the two string</string>
+    <string name="fourteen_string">This is the three string</string>
+    <string name="fifteen_string">This is the one string</string>
+
+    <string name="one_string0">This is the one string</string>
+    <string name="two_string0">This is the two string</string>
+    <string name="three_string0">This is the three string</string>
+    <string name="four_string0">This is the one string</string>
+    <string name="five_string0">This is the two string</string>
+    <string name="six_string0">This is the three string</string>
+    <string name="seven_string0">This is the one string</string>
+    <string name="eight_string0">This is the two string</string>
+    <string name="nine_string0">This is the three string</string>
+    <string name="ten_string0">This is the one string</string>
+    <string name="eleven_string0">This is the two string</string>
+    <string name="twelve_string0">This is the three string</string>
+    <string name="thirteen_string0">This is the two string</string>
+    <string name="fourteen_string0">This is the three string</string>
+    <string name="fifteen_string0">This is the one string</string>
+
+
+    <string name="one_string1">This is the one string</string>
+    <string name="two_string1">This is the two string</string>
+    <string name="three_string1">This is the three string</string>
+    <string name="four_string1">This is the one string</string>
+    <string name="five_string1">This is the two string</string>
+    <string name="six_string1">This is the three string</string>
+    <string name="seven_string1">This is the one string</string>
+    <string name="eight_string1">This is the two string</string>
+    <string name="nine_string1">This is the three string</string>
+    <string name="ten_string1">This is the one string</string>
+    <string name="eleven_string1">This is the two string</string>
+    <string name="twelve_string1">This is the three string</string>
+    <string name="thirteen_string1">This is the two string</string>
+    <string name="fourteen_string1">This is the three string</string>
+    <string name="fifteen_string1">This is the one string</string>
+
+    <string name="one_string2">This is the one string</string>
+    <string name="two_string2">This is the two string</string>
+    <string name="three_string2">This is the three string</string>
+    <string name="four_string2">This is the one string</string>
+    <string name="five_string2">This is the two string</string>
+    <string name="six_string2">This is the three string</string>
+    <string name="seven_string2">This is the one string</string>
+    <string name="eight_string2">This is the two string</string>
+    <string name="nine_string2">This is the three string</string>
+    <string name="ten_string2">This is the one string</string>
+    <string name="eleven_string2">This is the two string</string>
+    <string name="twelve_string2">This is the three string</string>
+    <string name="thirteen_string2">This is the two string</string>
+    <string name="fourteen_string2">This is the three string</string>
+    <string name="fifteen_string2">This is the one string</string>
+
+
+    <string name="one_string3">This is the one string</string>
+    <string name="two_string3">This is the two string</string>
+    <string name="three_string3">This is the three string</string>
+    <string name="four_string3">This is the one string</string>
+    <string name="five_string3">This is the two string</string>
+    <string name="six_string3">This is the three string</string>
+    <string name="seven_string3">This is the one string</string>
+    <string name="eight_string3">This is the two string</string>
+    <string name="nine_string3">This is the three string</string>
+    <string name="ten_string3">This is the one string</string>
+    <string name="eleven_string3">This is the two string</string>
+    <string name="twelve_string3">This is the three string</string>
+    <string name="thirteen_string3">This is the two string</string>
+    <string name="fourteen_string3">This is the three string</string>
+    <string name="fifteen_string3">This is the one string</string>
+    <!---->
+    <!---->
+</resources>
